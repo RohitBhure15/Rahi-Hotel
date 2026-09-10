@@ -1,0 +1,7 @@
+{
+  "name": "Rahi - Hotel & Resort Management",
+  "description": "Hotel Rahi Luxury Resort & Spa management platform with guest portal, reservations, ARIA 24/7 AI concierge, floor-by-floor corridor, room matrix, and enterprise operational modules.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
